@@ -99,7 +99,7 @@ properties:
           - domintech,dmard07
             # DMARD09: 3-axis Accelerometer
           - domintech,dmard09
-            # DMARD10: 3-axis Accelerometer
+            # DMARD10: 3-axis Accelerometer LAURA A ESTADO AQUI
           - domintech,dmard10
             # MMA7660FC: 3-Axis Orientation/Motion Detection Sensor
           - fsl,mma7660
